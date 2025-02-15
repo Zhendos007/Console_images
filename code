@@ -50,5 +50,4 @@ with open("books.csv", "r") as csvfile:
             f.write(key+'\n')
         w+=1
 
-    f.close
-print(1)
+    f.close()
